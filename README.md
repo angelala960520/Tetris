@@ -16,14 +16,14 @@ A simple Tetris game written in C for the Windows console.
 - Windows
 - MinGW GCC, or another C compiler that supports `windows.h` and `conio.h`
 
-## Build
-
-```powershell
-gcc tetris.c -o tetris.exe -luser32
-
 ## Controls
 Arrow left/right: move the block
 Arrow down: move the block down faster
 Arrow up: rotate the block
 Enter: hard drop
 q: quit
+
+## Build
+
+```powershell
+gcc tetris.c -o tetris.exe -luser32
