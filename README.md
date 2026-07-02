@@ -1,4 +1,4 @@
-# Console Tetris
+# Tetris
 
 A small Tetris game written in C for the Windows console.
 
