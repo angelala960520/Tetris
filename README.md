@@ -17,15 +17,11 @@ A simple Tetris game written in C for the Windows console.
 - MinGW GCC, or another C compiler that supports `windows.h` and `conio.h`
 
 ## Controls
-Arrow left/right: move the block
-
-Arrow down: move the block down faster
-
-Arrow up: rotate the block
-
-Enter: hard drop
-
-q: quit
+- Arrow left/right: move the block
+- Arrow down: move the block down faster
+- Arrow up: rotate the block
+- Enter: hard drop
+- q: quit
 
 ## Build
 
